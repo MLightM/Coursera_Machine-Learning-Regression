@@ -1,0 +1,1 @@
+根据seasonality modeling 的regression例子，可以做一个类似根据手机记录的走步的pattern来判断是否是同一个人这样一个APP
